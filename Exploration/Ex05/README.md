@@ -12,6 +12,7 @@
         - <img width="706" height="733" alt="image" src="https://github.com/user-attachments/assets/b7af6841-fd89-44e3-8ad6-a7113680acf8" />
         - 워드임베딩의 most_similar() 메소드  
         - <img width="799" height="332" alt="image" src="https://github.com/user-attachments/assets/00559de3-0e4c-4bb5-bcba-0032d67935a2" />
+        
 
     
 - [X]  **2. 전체 코드에서 가장 핵심적이거나 가장 복잡하고 이해하기 어려운 부분에 작성된 
