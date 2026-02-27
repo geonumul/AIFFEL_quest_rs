@@ -30,12 +30,14 @@
     배운점과 아쉬운점, 느낀점 등이 기록되어 있는지 확인
     - 전체 코드 실행 플로우를 그래프로 그려서 이해를 돕고 있는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
+        <img width="989" height="232" alt="image" src="https://github.com/user-attachments/assets/51153713-bacf-405b-89a5-3fb06996ce97" />
+
         
 - [x]  **5. 코드가 간결하고 효율적인가요?**
     - 파이썬 스타일 가이드 (PEP8) 를 준수하였는지 확인
     - 코드 중복을 최소화하고 범용적으로 사용할 수 있도록 함수화/모듈화했는지 확인
         - 중요! 잘 작성되었다고 생각되는 부분을 캡쳐해 근거로 첨부
-<img width="889" height="823" alt="image" src="https://github.com/user-attachments/assets/1f61d465-e28b-4869-84e2-24ea3a2e37a4" />
+        <img width="889" height="823" alt="image" src="https://github.com/user-attachments/assets/1f61d465-e28b-4869-84e2-24ea3a2e37a4" />
 
 
 # 회고(참고 링크 및 코드 개선)
